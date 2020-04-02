@@ -1,0 +1,3 @@
+﻿  Service.cpp
+D:\Facultate\lab_5\lab_5\Service.cpp(114): warning C4172: returning address of local variable or temporary: v
+  lab_5.vcxproj -> D:\Facultate\lab_5\Debug\lab_5.exe

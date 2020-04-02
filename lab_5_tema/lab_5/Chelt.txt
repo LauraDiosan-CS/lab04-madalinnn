@@ -1,0 +1,6 @@
+1 23 45 menaj
+2 2 200 gaz
+3 8 800 chirie
+4 22 22 mancare
+5 15 200 net
+6 8 5 mancare
